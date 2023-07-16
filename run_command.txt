@@ -1,0 +1,1 @@
+docker run -it --gpus all --name kaggle --mount type=bind,src=C:\Users\37107\Music\kaggle,dst=/code 4b4bbf5a9efac73b14f12e2d0fa41a0d002c31869176aea0749e93ffc5354205 /bin/bash

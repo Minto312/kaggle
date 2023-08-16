@@ -2,7 +2,12 @@ jupyterlab
 matplotlib
 numpy
 pandas
-scikit-learn
-sklearn
-tensorflow
 tqdm
+
+scikit-learn
+
+tensorflow
+
+torch
+torchvision
+torchaudio

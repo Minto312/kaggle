@@ -1,5 +1,6 @@
 data
 logs
+.deb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
